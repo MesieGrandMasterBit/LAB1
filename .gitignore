@@ -1,2 +1,5 @@
-
-
+/*.c
+/*.txt
+!geometry_input.txt
+main
+LAB1-1
